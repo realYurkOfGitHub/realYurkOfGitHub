@@ -3,8 +3,6 @@
 
 ✒️ Study direction: High performance computing（HPC）, iOS development
 
-[![](https://img.shields.io/badge/dynamic/json?color=000000&label=zhihu&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)](https://www.zhihu.com/people/yurk-73/posts)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realYurkOfGitHub&show_icons=true&theme=buefy) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realYurkOfGitHub&hide=html&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)   
