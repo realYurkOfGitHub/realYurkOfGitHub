@@ -1,7 +1,7 @@
 # Hi there 👋
-- 🏫 Hi，I‘m **Yurk**，Majoring in Information and Computing Science 
+- 🏫 Hi，I‘m **Yurk**，Working in software development for an Automotive Company
 
-- ✒️ Study direction: High performance computing（HPC）, iOS development
+- ✒️ Direction of interest: High performance computing（HPC）, Java, PA
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realYurkOfGitHub&show_icons=true&theme=buefy)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realYurkOfGitHub&hide=html&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)   
 
@@ -32,7 +32,7 @@
 
 
 # Education
-- Numerical Mathematics,[Taiyuan University of Technology](http://english.tyut.edu.cn), Sep 2019 - Present
+- Numerical Mathematics,[Taiyuan University of Technology](http://english.tyut.edu.cn), Sep 2019 - Jun 2023
 
 
 
