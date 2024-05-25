@@ -1,5 +1,5 @@
 # Hi there 👋
-- 🏫 Hi，I‘m **Yurk**，Working in software development for an Automotive Company
+- 🏫 Hi，I‘m **Yurk**，working in software development
 
 - ✒️ Direction of interest: High performance computing（HPC）, Java, PA
 
